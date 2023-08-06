@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects.<br>🌱 I’m currently learning JavaScript.<br>👯 I’m looking to collaborate on HTML,CSS based project.<br>👨‍💻 All of my projects are available at https://prinsitiwari-site.netlify.app/<br>💬 Ask me about CSS<br>📫 How to reach me tprincy56@gmail.com 
+🔭 I’m currently working on small projects.<br>🌱 I’m currently learning JavaScript.<br>👨‍💻 All of my projects are available at https://prinsitiwari-site.netlify.app/<br>💬 Ask me about CSS<br>📫 How to reach me tprincy56@gmail.com 
 
 
 ## 🌐 Socials:
