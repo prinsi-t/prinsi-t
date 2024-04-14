@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tprincy56@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prinsi-tiwari-b62042272/overlay/1635539823900/single-media-viewer?type=DOCUMENT&profileId=ACoAAEKRt_oBlig2wI1mmzwhGG0f65svJC6hN5w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7EQgh5%2FhRj2CLrmiJe5jlA%3D%3D](https://www.linkedin.com/in/prinsi-tiwari-b62042272/overlay/1635539823900/single-media-viewer?type=DOCUMENT&profileId=ACoAAEKRt_oBlig2wI1mmzwhGG0f65svJC6hN5w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7EQgh5%2FhRj2CLrmiJe5jlA%3D%3D)
+- 📄 Know about my experiences [https://www.linkedin.com/in/prinsi-tiwari-b62042272/](https://www.linkedin.com/in/prinsi-tiwari-b62042272/overlay/1635539823900/single-media-viewer?type=DOCUMENT&profileId=ACoAAEKRt_oBlig2wI1mmzwhGG0f65svJC6hN5w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7EQgh5%2FhRj2CLrmiJe5jlA%3D%3D)
 
 - ⚡ Fun fact **I love coding!**
 
