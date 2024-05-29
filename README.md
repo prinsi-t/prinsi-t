@@ -18,12 +18,11 @@
 - ⚡ Fun fact **I love coding!**
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href= "https://www.linkedin.com/in/prinsi-tiwari-b62042272/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg " width="52" height="40" alt="linkedin logo"  /> </a>
- <a href= "https://x.com/Princy_tiwari_"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> </a>
- <a href= "1067067976907505684"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> </a>
- 
-</div>
+<p align="left">
+<a href="https://twitter.com/https://x.com/princy_tiwari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/princy_tiwari_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prinsi-tiwari-b62042272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prinsi-tiwari-b62042272/" height="30" width="40" /></a>
+<a href="https://discord.gg/1067067976907505684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1067067976907505684" height="30" width="40" /></a>
+</p>
 
 ###
 <h3 align="left">Languages and Tools:</h3>
