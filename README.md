@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg (https://www.linkedin.com/in/prinsi-tiwari-b62042272/)" width="52" height="40" alt="linkedin logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg](https://x.com/Princy_tiwari_)" width="52" height="40" alt="twitter logo"  />
-  <img src="1067067976907505684" width="52" height="40" alt="discord logo"  />
+  <a href= "https://www.linkedin.com/in/prinsi-tiwari-b62042272/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg " width="52" height="40" alt="linkedin logo"  /> </a>
+ <a href= "https://x.com/Princy_tiwari_"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> </a>
+ <a href= "1067067976907505684"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> </a>
  
 </div>
 
