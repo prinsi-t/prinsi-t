@@ -54,7 +54,7 @@
 
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinsi-t&show_icons=true&locale=en" alt="prinsi-t" /></p>
+
 
 <br>
 
