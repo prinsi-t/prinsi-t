@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prinsi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **small projects.**
-
 - 🌱 I’m currently learning **node.js**
 
 - 👯 I’m looking to collaborate on **Javascript projects.**
 
 - 👨‍💻 All of my projects are available at [https://prinsitiwari-site.netlify.app/](https://prinsitiwari-site.netlify.app/)
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **tprincy56@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prinsi-tiwari-b62042272/](https://www.linkedin.com/in/prinsi-tiwari-b62042272/)
-
-- ⚡ Fun fact **I love coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
