@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsi-t&label=Profile%20views&color=0e75b6&style=flat" alt="prinsi-t" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/princy_tiwari_" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/princy_tiwari_?logo=twitter&style=for-the-badge" alt="https://x.com/princy_tiwari_" /></a> </p>
+
 
 - 🌱 I’m currently learning **Node.js**
 
