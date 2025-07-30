@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://prinsitiwari-site.netlify.app/](https://prinsitiwari-site.netlify.app/)
 
