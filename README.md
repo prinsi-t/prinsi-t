@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://personal-website-iqhw.onrender.](https://personal-website-iqhw.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://personal-website-orcin-beta-60.vercel.app.](https://personal-website-orcin-beta-60.vercel.app/)
 
 - 📫 How to reach me **tprincy56@gmail.com**
 
